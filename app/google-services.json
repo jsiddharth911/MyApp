@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49346041190",
+    "project_id": "testing-fba36",
+    "storage_bucket": "testing-fba36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49346041190:android:ae0d93693c4d22da5764a7",
+        "android_client_info": {
+          "package_name": "com.example.testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49346041190-knv2nq4gf6aj4hb14p7up9vle7134mo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFEIq8n_ln-NFENHSFR35bJBpBR974NbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49346041190-knv2nq4gf6aj4hb14p7up9vle7134mo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
